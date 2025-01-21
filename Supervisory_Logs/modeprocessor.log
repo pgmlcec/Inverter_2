@@ -1,0 +1,157 @@
+2025-01-10 12:56:26,234 - INFO - At least one mode is ON. Executing actions...
+2025-01-10 12:56:26,234 - INFO - Install_Agents called.
+2025-01-10 12:56:56,450 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-10 12:57:06,460 - INFO - Check for Tripping called.
+2025-01-10 13:06:48,086 - INFO - All modes are OFF. Executing cleanup...
+2025-01-10 13:06:48,086 - INFO - Remove_Agents called.
+2025-01-10 13:06:54,533 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-10 13:06:54,533 - INFO - Organize_Files called.
+2025-01-10 13:06:54,559 - INFO - Script Organize_files.py executed successfully.
+2025-01-10 13:15:03,178 - INFO - At least one mode is ON. Executing actions...
+2025-01-10 13:15:03,178 - INFO - Install_Agents called.
+2025-01-10 13:15:30,316 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-10 13:15:40,324 - INFO - Check for Tripping called.
+2025-01-10 13:17:39,489 - INFO - All modes are OFF. Executing cleanup...
+2025-01-10 13:17:39,489 - INFO - Remove_Agents called.
+2025-01-10 13:17:45,721 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-10 13:17:45,721 - INFO - Organize_Files called.
+2025-01-10 13:17:45,745 - INFO - Script Organize_files.py executed successfully.
+2025-01-10 17:25:39,736 - INFO - At least one mode is ON. Executing actions...
+2025-01-10 17:25:39,737 - INFO - Install_Agents called.
+2025-01-10 17:26:05,885 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-10 17:26:15,893 - INFO - Check for Tripping called.
+2025-01-10 17:50:26,489 - INFO - All modes are OFF. Executing cleanup...
+2025-01-10 17:50:26,489 - INFO - Remove_Agents called.
+2025-01-10 17:50:33,085 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-10 17:50:33,085 - INFO - Organize_Files called.
+2025-01-10 17:50:33,109 - INFO - Script Organize_files.py executed successfully.
+2025-01-10 17:59:21,734 - INFO - At least one mode is ON. Executing actions...
+2025-01-10 17:59:21,734 - INFO - Install_Agents called.
+2025-01-10 17:59:47,941 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-10 17:59:57,952 - INFO - Check for Tripping called.
+2025-01-10 18:09:59,646 - INFO - All modes are OFF. Executing cleanup...
+2025-01-10 18:09:59,646 - INFO - Remove_Agents called.
+2025-01-10 18:10:05,896 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-10 18:10:05,896 - INFO - Organize_Files called.
+2025-01-10 18:10:05,920 - INFO - Script Organize_files.py executed successfully.
+2025-01-10 18:13:54,230 - INFO - At least one mode is ON. Executing actions...
+2025-01-10 18:13:54,230 - INFO - Install_Agents called.
+2025-01-10 18:14:20,148 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-10 18:14:30,152 - INFO - Check for Tripping called.
+2025-01-10 18:19:35,558 - INFO - All modes are OFF. Executing cleanup...
+2025-01-10 18:19:35,559 - INFO - Remove_Agents called.
+2025-01-10 18:19:41,786 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-10 18:19:41,786 - INFO - Organize_Files called.
+2025-01-10 18:19:41,810 - INFO - Script Organize_files.py executed successfully.
+2025-01-11 14:27:30,815 - INFO - All modes are OFF. Executing cleanup...
+2025-01-11 14:27:30,831 - INFO - Remove_Agents called.
+2025-01-11 14:27:35,940 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-11 14:27:35,941 - INFO - Organize_Files called.
+2025-01-11 14:27:36,291 - INFO - Script Organize_files.py executed successfully.
+2025-01-11 15:55:15,373 - INFO - At least one mode is ON. Executing actions...
+2025-01-11 15:55:15,373 - INFO - Install_Agents called.
+2025-01-11 15:55:44,928 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-11 15:55:54,939 - INFO - Check for Tripping called.
+2025-01-11 16:06:00,689 - INFO - All modes are OFF. Executing cleanup...
+2025-01-11 16:06:00,689 - INFO - Remove_Agents called.
+2025-01-11 16:06:06,975 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-11 16:06:06,975 - INFO - Organize_Files called.
+2025-01-11 16:06:06,999 - INFO - Script Organize_files.py executed successfully.
+2025-01-11 16:14:59,650 - INFO - At least one mode is ON. Executing actions...
+2025-01-11 16:14:59,650 - INFO - Install_Agents called.
+2025-01-11 16:15:25,808 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-11 16:15:35,818 - INFO - Check for Tripping called.
+2025-01-11 21:20:30,673 - INFO - All modes are OFF. Executing cleanup...
+2025-01-11 21:20:30,673 - INFO - Remove_Agents called.
+2025-01-11 21:20:36,904 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-11 21:20:36,904 - INFO - Organize_Files called.
+2025-01-11 21:20:36,928 - INFO - Script Organize_files.py executed successfully.
+2025-01-11 21:34:35,966 - INFO - At least one mode is ON. Executing actions...
+2025-01-11 21:34:35,966 - INFO - Install_Agents called.
+2025-01-11 21:35:01,892 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-11 21:35:11,896 - INFO - Check for Tripping called.
+2025-01-11 21:41:45,373 - INFO - All modes are OFF. Executing cleanup...
+2025-01-11 21:41:45,373 - INFO - Remove_Agents called.
+2025-01-11 21:41:52,829 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-11 21:41:52,829 - INFO - Organize_Files called.
+2025-01-11 21:41:52,867 - INFO - Script Organize_files.py executed successfully.
+2025-01-11 21:44:13,033 - INFO - At least one mode is ON. Executing actions...
+2025-01-11 21:44:13,033 - INFO - Install_Agents called.
+2025-01-11 21:44:40,525 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-11 21:44:50,534 - INFO - Check for Tripping called.
+2025-01-11 22:34:56,507 - INFO - All modes are OFF. Executing cleanup...
+2025-01-11 22:34:56,507 - INFO - Remove_Agents called.
+2025-01-11 22:35:02,929 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-11 22:35:02,929 - INFO - Organize_Files called.
+2025-01-11 22:35:02,954 - INFO - Script Organize_files.py executed successfully.
+2025-01-18 05:42:34,590 - INFO - At least one mode is ON. Executing actions...
+2025-01-18 05:42:34,590 - INFO - Install_Agents called.
+2025-01-18 05:43:23,272 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-18 05:43:33,282 - INFO - Check for Tripping called.
+2025-01-18 18:06:55,854 - INFO - At least one mode is ON. Executing actions...
+2025-01-18 18:06:55,855 - INFO - Install_Agents called.
+2025-01-18 18:07:43,319 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-18 18:07:53,326 - INFO - Check for Tripping called.
+2025-01-18 19:36:28,387 - INFO - All modes are OFF. Executing cleanup...
+2025-01-18 19:36:28,387 - INFO - Remove_Agents called.
+2025-01-18 19:37:00,904 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-18 19:37:00,904 - INFO - Organize_Files called.
+2025-01-18 19:37:01,105 - INFO - Script Organize_files.py executed successfully.
+2025-01-18 19:38:15,344 - INFO - At least one mode is ON. Executing actions...
+2025-01-18 19:38:15,344 - INFO - Install_Agents called.
+2025-01-18 19:39:04,872 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-18 19:39:14,882 - INFO - Check for Tripping called.
+2025-01-18 20:02:53,517 - INFO - All modes are OFF. Executing cleanup...
+2025-01-18 20:02:53,517 - INFO - Remove_Agents called.
+2025-01-18 20:03:27,061 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-18 20:03:27,062 - INFO - Organize_Files called.
+2025-01-18 20:03:27,287 - INFO - Script Organize_files.py executed successfully.
+2025-01-18 20:15:52,385 - INFO - All modes are OFF. Executing cleanup...
+2025-01-18 20:15:52,386 - INFO - Remove_Agents called.
+2025-01-18 20:16:17,215 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-18 20:16:17,215 - INFO - Organize_Files called.
+2025-01-18 20:16:17,388 - INFO - Script Organize_files.py executed successfully.
+2025-01-18 20:43:26,322 - INFO - At least one mode is ON. Executing actions...
+2025-01-18 20:43:26,322 - INFO - Install_Agents called.
+2025-01-18 20:44:14,242 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-18 20:44:24,251 - INFO - Check for Tripping called.
+2025-01-18 21:28:56,339 - INFO - All modes are OFF. Executing cleanup...
+2025-01-18 21:28:56,343 - INFO - Remove_Agents called.
+2025-01-18 21:29:34,860 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-18 21:29:34,861 - INFO - Organize_Files called.
+2025-01-18 21:29:35,051 - INFO - Script Organize_files.py executed successfully.
+2025-01-18 21:30:11,280 - INFO - At least one mode is ON. Executing actions...
+2025-01-18 21:30:11,281 - INFO - Install_Agents called.
+2025-01-18 21:31:18,544 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-18 21:31:28,551 - INFO - Check for Tripping called.
+2025-01-18 21:32:48,333 - INFO - All modes are OFF. Executing cleanup...
+2025-01-18 21:32:48,334 - INFO - Remove_Agents called.
+2025-01-18 21:33:41,597 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-18 21:33:42,525 - INFO - Organize_Files called.
+2025-01-18 21:33:42,781 - INFO - Script Organize_files.py executed successfully.
+2025-01-18 21:56:12,581 - INFO - At least one mode is ON. Executing actions...
+2025-01-18 21:56:12,584 - INFO - Install_Agents called.
+2025-01-18 21:57:07,676 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-18 21:57:17,687 - INFO - Check for Tripping called.
+2025-01-18 21:59:45,055 - INFO - All modes are OFF. Executing cleanup...
+2025-01-18 21:59:45,056 - INFO - Remove_Agents called.
+2025-01-18 22:00:17,399 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-18 22:00:17,399 - INFO - Organize_Files called.
+2025-01-18 22:00:17,571 - INFO - Script Organize_files.py executed successfully.
+2025-01-18 22:00:37,759 - INFO - At least one mode is ON. Executing actions...
+2025-01-18 22:00:37,759 - INFO - Install_Agents called.
+2025-01-18 22:01:35,945 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-18 22:01:45,956 - INFO - Check for Tripping called.
+2025-01-18 22:02:59,274 - INFO - All modes are OFF. Executing cleanup...
+2025-01-18 22:02:59,275 - INFO - Remove_Agents called.
+2025-01-18 22:03:30,201 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-18 22:03:30,202 - INFO - Organize_Files called.
+2025-01-18 22:03:30,365 - INFO - Script Organize_files.py executed successfully.
+2025-01-18 22:04:22,596 - INFO - At least one mode is ON. Executing actions...
+2025-01-18 22:04:22,596 - INFO - Install_Agents called.
+2025-01-18 22:07:14,008 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-18 22:07:24,015 - INFO - Check for Tripping called.
+2025-01-21 16:06:44,437 - INFO - At least one mode is ON. Executing actions...
+2025-01-21 16:06:44,438 - INFO - Install_Agents called.
+2025-01-21 16:07:46,755 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-21 16:07:56,766 - INFO - Check for Tripping called.
