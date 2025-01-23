@@ -155,3 +155,5 @@
 2025-01-21 16:06:44,438 - INFO - Install_Agents called.
 2025-01-21 16:07:46,755 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
 2025-01-21 16:07:56,766 - INFO - Check for Tripping called.
+2025-01-23 16:06:51,061 - INFO - At least one mode is ON. Executing actions...
+2025-01-23 16:06:51,062 - INFO - Install_Agents called.
