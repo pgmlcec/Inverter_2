@@ -1,5 +1,5 @@
-fix_power_mode=0
-voltage_regulation_mode=0
+fix_power_mode=1
+voltage_regulation_mode=1
 ESC_volt_reg_mode=1
 fix_real_power=-300
 fix_reactive_power=-300
