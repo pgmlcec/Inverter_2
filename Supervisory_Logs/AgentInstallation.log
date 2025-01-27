@@ -87,3 +87,43 @@
 
 2025-01-27 19:29:39,825 - INFO - Starting agent: MY_ESC_Seek_Agent
 2025-01-27 19:29:39,825 - INFO - Executing: source /home/taha/volttron/env/bin/activate && vctl start --tag MY_ESC_Seek_Agent
+2025-01-27 19:29:42,932 - INFO - Starting 2951a48c-53d9-400c-bc20-02b4e8aeaff8 ESCagent-0.1
+
+2025-01-27 19:29:42,940 - INFO - Starting agent: MY_FixPQ_Agent
+2025-01-27 19:29:42,940 - INFO - Executing: source /home/taha/volttron/env/bin/activate && vctl start --tag MY_FixPQ_Agent
+2025-01-27 19:29:45,847 - INFO - Starting aff57faf-2c5a-4b8b-8fb4-83293d75ee27 FixPQagent-0.1
+
+2025-01-27 19:29:45,847 - INFO - Starting agent: MY_Ops_Agent
+2025-01-27 19:29:45,847 - INFO - Executing: source /home/taha/volttron/env/bin/activate && vctl start --tag MY_Ops_Agent
+2025-01-27 19:29:48,328 - INFO - Starting 7fe79b32-5a2d-4657-8861-71b692a4a9dd OpsAgentagent-0.1
+
+2025-01-27 19:29:48,329 - INFO - Starting agent: MY_PwrCntrl_ESC_Agent
+2025-01-27 19:29:48,329 - INFO - Executing: source /home/taha/volttron/env/bin/activate && vctl start --tag MY_PwrCntrl_ESC_Agent
+2025-01-27 19:29:51,000 - INFO - Starting 7c919740-345e-42c2-a24d-fd14401ab286 PQAdjagent-0.1
+
+2025-01-27 19:29:51,001 - INFO - Starting agent: MY_Curve_Fit_Agent
+2025-01-27 19:29:51,001 - INFO - Executing: source /home/taha/volttron/env/bin/activate && vctl start --tag MY_Curve_Fit_Agent
+2025-01-27 19:29:53,829 - INFO - Starting 34bf6d04-f7ef-4aca-9457-b1e61c0960a0 CurveFitagent-0.1
+
+2025-01-27 19:29:53,830 - INFO - Starting agent: MY_VoltReg_Agent
+2025-01-27 19:29:53,830 - INFO - Executing: source /home/taha/volttron/env/bin/activate && vctl start --tag MY_VoltReg_Agent
+2025-01-27 19:29:56,749 - INFO - Starting 2db21f36-a1ca-47e3-9fb2-f33a2f9a0ab1 Volt_Varagent-0.1
+
+2025-01-27 19:29:56,750 - INFO - Starting agent: MY_SSwitch_Agent
+2025-01-27 19:29:56,750 - INFO - Executing: source /home/taha/volttron/env/bin/activate && vctl start --tag MY_SSwitch_Agent
+2025-01-27 19:30:00,386 - INFO - Starting 0bc90449-897f-48e2-9c1d-3198c2074f7d SafetyAgentagent-0.1
+
+2025-01-27 19:30:00,387 - INFO - Fetching agent status...
+2025-01-27 19:30:00,388 - INFO - Executing: source /home/taha/volttron/env/bin/activate && vctl status
+2025-01-27 19:30:03,528 - INFO - 34 CurveFitagent-0.1    CurveFitagent-0.1_1    MY_Curve_Fit_Agent    running [1633]  GOOD
+08 DBAgentagent-0.1     DBAgentagent-0.1_1     MY_DataBase_Agent     running [1536]  GOOD
+cc ESCVRagent-0.1       ESCVRagent-0.1_1       MY_ESC_VoltReg        running [1546]  GOOD
+29 ESCagent-0.1         ESCagent-0.1_1         MY_ESC_Seek_Agent     running [1579]  GOOD
+af FixPQagent-0.1       FixPQagent-0.1_1       MY_FixPQ_Agent        running [1601]  GOOD
+1d Mod_Commagent-0.1    Mod_Commagent-0.1_1    MY_Modbus_Agent       running [1525]  GOOD
+7f OpsAgentagent-0.1    OpsAgentagent-0.1_1    MY_Ops_Agent          running [1612]  GOOD
+7c PQAdjagent-0.1       PQAdjagent-0.1_1       MY_PwrCntrl_ESC_Agent running [1622]  GOOD
+0b SafetyAgentagent-0.1 SafetyAgentagent-0.1_1 MY_SSwitch_Agent      running [1658]  GOOD
+2d Volt_Varagent-0.1    Volt_Varagent-0.1_1    MY_VoltReg_Agent      running [1645]  GOOD
+
+2025-01-27 19:30:03,529 - INFO - Agent installation process completed successfully.
