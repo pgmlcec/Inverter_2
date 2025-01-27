@@ -157,3 +157,199 @@
 2025-01-21 16:07:56,766 - INFO - Check for Tripping called.
 2025-01-23 16:06:51,061 - INFO - At least one mode is ON. Executing actions...
 2025-01-23 16:06:51,062 - INFO - Install_Agents called.
+2025-01-23 16:08:18,216 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-23 16:08:28,224 - INFO - Check for Tripping called.
+2025-01-24 16:38:36,015 - INFO - At least one mode is ON. Executing actions...
+2025-01-24 16:38:36,015 - INFO - Install_Agents called.
+2025-01-24 16:40:01,824 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-24 16:40:11,832 - INFO - Check for Tripping called.
+2025-01-24 17:51:41,890 - INFO - At least one mode is ON. Executing actions...
+2025-01-24 17:51:41,891 - INFO - Install_Agents called.
+2025-01-24 17:53:16,373 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-24 17:53:26,384 - INFO - Check for Tripping called.
+2025-01-24 18:08:43,577 - INFO - All modes are OFF. Executing cleanup...
+2025-01-24 18:08:43,577 - INFO - Remove_Agents called.
+2025-01-24 18:09:16,249 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-24 18:09:16,250 - INFO - Organize_Files called.
+2025-01-24 18:09:16,517 - INFO - Script Organize_files.py executed successfully.
+2025-01-24 18:09:18,746 - INFO - At least one mode is ON. Executing actions...
+2025-01-24 18:09:18,746 - INFO - Install_Agents called.
+2025-01-24 18:09:24,113 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-24 18:09:34,121 - INFO - Check for Tripping called.
+2025-01-24 18:20:53,969 - INFO - All modes are OFF. Executing cleanup...
+2025-01-24 18:20:53,969 - INFO - Remove_Agents called.
+2025-01-24 18:21:17,510 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-24 18:21:17,510 - INFO - Organize_Files called.
+2025-01-24 18:21:17,654 - INFO - Script Organize_files.py executed successfully.
+2025-01-24 18:21:17,654 - INFO - Turn_On_Switch called.
+2025-01-24 18:21:19,757 - INFO - Script TurnOffSwitch.py executed successfully.
+2025-01-24 18:21:21,924 - INFO - At least one mode is ON. Executing actions...
+2025-01-24 18:21:21,925 - INFO - Turn_On_Switch called.
+2025-01-24 18:21:24,045 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-24 18:21:24,046 - INFO - Install_Agents called.
+2025-01-24 18:22:56,981 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-24 18:23:06,989 - INFO - Check for Tripping called.
+2025-01-24 18:23:10,147 - INFO - All modes are OFF. Executing cleanup...
+2025-01-24 18:23:10,147 - INFO - Remove_Agents called.
+2025-01-24 18:23:43,011 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-24 18:23:43,011 - INFO - Organize_Files called.
+2025-01-24 18:23:43,169 - INFO - Script Organize_files.py executed successfully.
+2025-01-24 18:23:43,171 - INFO - Turn_On_Switch called.
+2025-01-24 18:23:45,289 - INFO - Script TurnOffSwitch.py executed successfully.
+2025-01-24 18:23:47,543 - INFO - At least one mode is ON. Executing actions...
+2025-01-24 18:23:47,544 - INFO - Turn_On_Switch called.
+2025-01-24 18:23:49,729 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-24 18:23:49,730 - INFO - Install_Agents called.
+2025-01-24 18:26:23,492 - INFO - At least one mode is ON. Executing actions...
+2025-01-24 18:26:23,498 - INFO - Turn_On_Switch called.
+2025-01-24 18:26:25,613 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-24 18:26:25,613 - INFO - Install_Agents called.
+2025-01-24 18:28:04,639 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-24 18:28:14,646 - INFO - Check for Tripping called.
+2025-01-24 18:32:15,178 - INFO - All modes are OFF. Executing cleanup...
+2025-01-24 18:32:15,178 - INFO - Remove_Agents called.
+2025-01-24 18:32:46,251 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-24 18:32:46,252 - INFO - Organize_Files called.
+2025-01-24 18:32:46,404 - INFO - Script Organize_files.py executed successfully.
+2025-01-24 18:32:46,404 - INFO - Turn_On_Switch called.
+2025-01-24 18:32:48,507 - INFO - Script TurnOffSwitch.py executed successfully.
+2025-01-24 18:32:50,664 - INFO - At least one mode is ON. Executing actions...
+2025-01-24 18:32:50,664 - INFO - Turn_On_Switch called.
+2025-01-24 18:32:52,791 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-24 18:32:52,792 - INFO - Install_Agents called.
+2025-01-24 18:52:46,622 - INFO - All modes are OFF. Executing cleanup...
+2025-01-24 18:52:46,623 - INFO - Remove_Agents called.
+2025-01-24 18:53:13,368 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-24 18:53:13,369 - INFO - Organize_Files called.
+2025-01-24 18:53:13,563 - INFO - Script Organize_files.py executed successfully.
+2025-01-24 18:53:13,564 - INFO - Turn_On_Switch called.
+2025-01-24 18:53:15,682 - INFO - Script TurnOffSwitch.py executed successfully.
+2025-01-24 18:57:00,985 - INFO - All modes are OFF. Executing cleanup...
+2025-01-24 18:57:00,986 - INFO - Remove_Agents called.
+2025-01-24 18:57:27,039 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-24 18:57:27,041 - INFO - Organize_Files called.
+2025-01-24 18:57:27,228 - INFO - Script Organize_files.py executed successfully.
+2025-01-24 18:57:27,228 - INFO - Turn_On_Switch called.
+2025-01-24 18:57:27,229 - ERROR - Script TurnOffSwitch.py not found at /home/taha/AGENTS/SUPERVISORY_FUNCTIONS/ScriptsToCall/TurnOffSwitch.py.
+2025-01-24 19:13:56,753 - INFO - At least one mode is ON. Executing actions...
+2025-01-24 19:13:56,756 - INFO - Turn_On_Switch called.
+2025-01-24 19:13:58,877 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-24 19:13:58,878 - INFO - Install_Agents called.
+2025-01-24 19:15:34,170 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-24 19:15:44,179 - INFO - Check for Tripping called.
+2025-01-24 19:17:26,585 - INFO - All modes are OFF. Executing cleanup...
+2025-01-24 19:17:26,585 - INFO - Remove_Agents called.
+2025-01-24 19:17:55,749 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-24 19:17:55,750 - INFO - Organize_Files called.
+2025-01-24 19:17:55,889 - INFO - Script Organize_files.py executed successfully.
+2025-01-24 19:17:55,889 - INFO - Turn_On_Switch called.
+2025-01-24 19:17:58,010 - INFO - Script TurnOffSwitch.py executed successfully.
+2025-01-24 19:18:18,190 - INFO - At least one mode is ON. Executing actions...
+2025-01-24 19:18:18,191 - INFO - Turn_On_Switch called.
+2025-01-24 19:18:20,310 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-24 19:18:20,310 - INFO - Install_Agents called.
+2025-01-24 19:19:53,174 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-24 19:20:03,183 - INFO - Check for Tripping called.
+2025-01-24 22:36:34,491 - INFO - At least one mode is ON. Executing actions...
+2025-01-24 22:36:34,492 - INFO - Turn_On_Switch called.
+2025-01-24 22:36:36,628 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-24 22:36:36,628 - INFO - Install_Agents called.
+2025-01-24 22:38:21,679 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-24 22:38:31,690 - INFO - Check for Tripping called.
+2025-01-24 23:03:59,501 - INFO - All modes are OFF. Executing cleanup...
+2025-01-24 23:03:59,501 - INFO - Remove_Agents called.
+2025-01-24 23:08:05,286 - INFO - All modes are OFF. Executing cleanup...
+2025-01-24 23:08:05,287 - INFO - Remove_Agents called.
+2025-01-24 23:08:29,873 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-24 23:08:29,873 - INFO - Organize_Files called.
+2025-01-24 23:08:30,016 - INFO - Script Organize_files.py executed successfully.
+2025-01-24 23:08:30,016 - INFO - Turn_On_Switch called.
+2025-01-24 23:08:32,128 - INFO - Script TurnOffSwitch.py executed successfully.
+2025-01-24 23:09:15,457 - INFO - At least one mode is ON. Executing actions...
+2025-01-24 23:09:15,458 - INFO - Turn_On_Switch called.
+2025-01-24 23:09:17,611 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-24 23:09:17,611 - INFO - Install_Agents called.
+2025-01-24 23:10:52,826 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-24 23:11:02,836 - INFO - Check for Tripping called.
+2025-01-24 23:12:24,076 - INFO - All modes are OFF. Executing cleanup...
+2025-01-24 23:12:24,076 - INFO - Remove_Agents called.
+2025-01-24 23:15:04,480 - INFO - All modes are OFF. Executing cleanup...
+2025-01-24 23:15:04,481 - INFO - Remove_Agents called.
+2025-01-24 23:15:28,190 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-24 23:15:28,191 - INFO - Organize_Files called.
+2025-01-24 23:15:28,349 - INFO - Script Organize_files.py executed successfully.
+2025-01-24 23:15:28,349 - INFO - Turn_On_Switch called.
+2025-01-24 23:15:30,470 - INFO - Script TurnOffSwitch.py executed successfully.
+2025-01-24 23:17:31,885 - INFO - At least one mode is ON. Executing actions...
+2025-01-24 23:17:31,886 - INFO - Turn_On_Switch called.
+2025-01-24 23:17:34,010 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-24 23:17:34,010 - INFO - Install_Agents called.
+2025-01-24 23:19:13,215 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-24 23:19:23,224 - INFO - Check for Tripping called.
+2025-01-25 16:17:19,001 - INFO - At least one mode is ON. Executing actions...
+2025-01-25 16:17:19,002 - INFO - Turn_On_Switch called.
+2025-01-25 16:17:21,126 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-25 16:17:21,126 - INFO - Install_Agents called.
+2025-01-25 16:18:58,081 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-25 16:19:08,087 - INFO - Check for Tripping called.
+2025-01-25 16:21:58,281 - INFO - All modes are OFF. Executing cleanup...
+2025-01-25 16:21:58,282 - INFO - Remove_Agents called.
+2025-01-25 16:22:21,601 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-25 16:22:21,601 - INFO - Organize_Files called.
+2025-01-25 16:22:21,747 - INFO - Script Organize_files.py executed successfully.
+2025-01-25 16:22:21,747 - INFO - Turn_On_Switch called.
+2025-01-25 16:22:23,892 - INFO - Script TurnOffSwitch.py executed successfully.
+2025-01-25 16:23:13,265 - INFO - At least one mode is ON. Executing actions...
+2025-01-25 16:23:13,266 - INFO - Turn_On_Switch called.
+2025-01-25 16:23:15,394 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-25 16:23:15,394 - INFO - Install_Agents called.
+2025-01-25 16:24:55,416 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-25 16:25:05,426 - INFO - Check for Tripping called.
+2025-01-25 16:25:26,619 - INFO - All modes are OFF. Executing cleanup...
+2025-01-25 16:25:26,619 - INFO - Remove_Agents called.
+2025-01-25 16:25:56,073 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-25 16:25:56,073 - INFO - Organize_Files called.
+2025-01-25 16:25:56,228 - INFO - Script Organize_files.py executed successfully.
+2025-01-25 16:25:56,229 - INFO - Turn_On_Switch called.
+2025-01-25 16:25:58,351 - INFO - Script TurnOffSwitch.py executed successfully.
+2025-01-25 16:28:48,662 - INFO - At least one mode is ON. Executing actions...
+2025-01-25 16:28:48,662 - INFO - Turn_On_Switch called.
+2025-01-25 16:28:50,808 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-25 16:28:50,809 - INFO - Install_Agents called.
+2025-01-25 16:31:22,668 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-25 16:31:32,677 - INFO - Check for Tripping called.
+2025-01-25 16:34:14,171 - INFO - All modes are OFF. Executing cleanup...
+2025-01-25 16:34:14,172 - INFO - Remove_Agents called.
+2025-01-25 16:35:17,685 - ERROR - Error occurred while executing Remove_Agent.py: Traceback (most recent call last):
+  File "/home/taha/AGENTS/SUPERVISORY_FUNCTIONS/ScriptsToCall/Remove_Agent.py", line 136, in <module>
+    start_volttron()
+  File "/home/taha/AGENTS/SUPERVISORY_FUNCTIONS/ScriptsToCall/Remove_Agent.py", line 115, in start_volttron
+    run_command(volttron_start_command)
+  File "/home/taha/AGENTS/SUPERVISORY_FUNCTIONS/ScriptsToCall/Remove_Agent.py", line 68, in run_command
+    result = subprocess.run(
+  File "/usr/lib/python3.9/subprocess.py", line 528, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command 'cd /home/taha/volttron && source env/bin/activate && ./start-volttron' returned non-zero exit status 1.
+
+2025-01-25 16:35:17,685 - INFO - Organize_Files called.
+2025-01-25 16:35:17,966 - INFO - Script Organize_files.py executed successfully.
+2025-01-25 16:35:17,966 - INFO - Turn_On_Switch called.
+2025-01-25 16:35:20,167 - INFO - Script TurnOffSwitch.py executed successfully.
+2025-01-25 16:42:06,775 - INFO - At least one mode is ON. Executing actions...
+2025-01-25 16:42:06,775 - INFO - Turn_On_Switch called.
+2025-01-25 16:42:08,893 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-25 16:42:08,894 - INFO - Install_Agents called.
+2025-01-25 16:43:11,124 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-25 16:43:21,134 - INFO - Check for Tripping called.
+2025-01-25 16:44:40,710 - INFO - At least one mode is ON. Executing actions...
+2025-01-25 16:44:40,711 - INFO - Turn_On_Switch called.
+2025-01-25 16:44:42,866 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-25 16:44:42,875 - INFO - Install_Agents called.
+2025-01-25 16:47:44,944 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-25 16:47:54,953 - INFO - Check for Tripping called.
+2025-01-25 16:56:55,265 - INFO - At least one mode is ON. Executing actions...
+2025-01-25 16:56:55,267 - INFO - Turn_On_Switch called.
+2025-01-25 16:56:57,389 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-25 16:56:57,389 - INFO - Install_Agents called.
+2025-01-25 16:58:32,830 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
+2025-01-25 16:58:42,839 - INFO - Check for Tripping called.
