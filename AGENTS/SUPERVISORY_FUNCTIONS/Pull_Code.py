@@ -38,7 +38,7 @@ def PULL_FUNCTION(repo_path, log_path):
                 log_message(log_path, "New Changes Pulled.")
 
                 # Sync the folders after pulling updates
-                sync_folders(repo_path, "/home/taha", log_path)
+                #sync_folders(repo_path, "/home/taha", log_path)
 
             # Wait for 60 seconds before checking again
             time.sleep(60)
@@ -105,7 +105,7 @@ def sync_folders(source_base, target_base, log_path):
 
 
 # Set the path to your local repository and log file
-repo_path = "/home/taha/Inverter_1"
+repo_path = "/home/taha/Inverter_2"
 log_path = "/home/taha/github_log.log"
 
 # Run the function

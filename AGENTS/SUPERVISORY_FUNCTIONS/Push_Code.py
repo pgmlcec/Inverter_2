@@ -100,7 +100,7 @@ def sync_folders(target_base, source_base, log_path):
 
 # Set the path to your source and target directories and log file
 
-repo_path = "/home/taha/Inverter_1"
+repo_path = "/home/taha/Inverter_2"
 log_path = "/home/taha/github_push_log.log"
 
 # Run the function
