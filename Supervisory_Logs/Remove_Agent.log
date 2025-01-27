@@ -3839,3 +3839,21 @@ a5f SafetyAgentagent-0.1 SafetyAgentagent-0.1_1 MY_SSwitch_Agent      running [1
 
 2025-01-27 20:30:29,209 - INFO - Attempting to remove agent with tag: MY_ESC_VoltReg
 2025-01-27 20:30:29,209 - INFO - Activating the virtual environment...
+2025-01-27 20:30:31,944 - INFO - Successfully removed agent with tag: MY_ESC_VoltReg
+2025-01-27 20:30:31,945 - INFO - Command output: Removing 73de56d4-68fb-4188-ab65-b0c4e4eeb7da ESCVRagent-0.1
+
+2025-01-27 20:30:31,945 - INFO - Attempting to remove agent with tag: MY_Curve_Fit_Agent
+2025-01-27 20:30:31,945 - INFO - Activating the virtual environment...
+2025-01-27 20:30:34,865 - INFO - Successfully removed agent with tag: MY_Curve_Fit_Agent
+2025-01-27 20:30:34,866 - INFO - Command output: Removing 032db867-5bb7-4e8c-99a1-d47d87ddae4a CurveFitagent-0.1
+
+2025-01-27 20:30:34,866 - INFO - Attempting to remove agent with tag: MY_PwrCntrl_ESC_Agent
+2025-01-27 20:30:34,866 - INFO - Activating the virtual environment...
+2025-01-27 20:30:37,429 - INFO - Successfully removed agent with tag: MY_PwrCntrl_ESC_Agent
+2025-01-27 20:30:37,430 - INFO - Command output: Removing 0f7185c1-2961-4d9b-9247-1eb1a5a82188 PQAdjagent-0.1
+
+2025-01-27 20:30:37,430 - INFO - Attempting to remove agent with tag: MY_SSwitch_Agent
+2025-01-27 20:30:37,430 - INFO - Activating the virtual environment...
+2025-01-27 20:30:40,127 - INFO - Successfully removed agent with tag: MY_SSwitch_Agent
+2025-01-27 20:30:40,128 - INFO - Command output: Removing a5f98733-a4cb-4f0c-8658-ef6bc3e89457 SafetyAgentagent-0.1
+

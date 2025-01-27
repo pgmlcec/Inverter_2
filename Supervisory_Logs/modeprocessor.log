@@ -389,3 +389,8 @@ subprocess.CalledProcessError: Command 'cd /home/taha/volttron && source env/bin
 2025-01-27 20:26:52,322 - INFO - Check for Tripping called.
 2025-01-27 20:30:10,804 - INFO - All modes are OFF. Executing cleanup...
 2025-01-27 20:30:10,804 - INFO - Remove_Agents called.
+2025-01-27 20:30:40,148 - INFO - Script Remove_Agent.py executed successfully.
+2025-01-27 20:30:40,148 - INFO - Organize_Files called.
+2025-01-27 20:30:40,312 - INFO - Script Organize_files.py executed successfully.
+2025-01-27 20:30:40,312 - INFO - Turn_On_Switch called.
+2025-01-27 20:30:42,431 - INFO - Script TurnOffSwitch.py executed successfully.
