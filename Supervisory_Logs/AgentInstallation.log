@@ -91,3 +91,7 @@
 
 2025-01-27 20:14:25,534 - INFO - Starting agent: MY_FixPQ_Agent
 2025-01-27 20:14:25,535 - INFO - Executing: source /home/taha/volttron/env/bin/activate && vctl start --tag MY_FixPQ_Agent
+2025-01-27 20:14:28,644 - INFO - Starting 23535a6f-f378-481c-b2b7-fb78e342af2e FixPQagent-0.1
+
+2025-01-27 20:14:28,645 - INFO - Starting agent: MY_Ops_Agent
+2025-01-27 20:14:28,645 - INFO - Executing: source /home/taha/volttron/env/bin/activate && vctl start --tag MY_Ops_Agent
