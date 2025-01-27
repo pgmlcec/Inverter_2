@@ -375,3 +375,7 @@ subprocess.CalledProcessError: Command 'cd /home/taha/volttron && source env/bin
 2025-01-27 19:51:05,979 - INFO - Install_Agents called.
 2025-01-27 19:53:03,379 - INFO - Script Install_AND_START_AGENTS.py executed successfully.
 2025-01-27 19:53:13,390 - INFO - Check for Tripping called.
+2025-01-27 20:13:08,909 - INFO - At least one mode is ON. Executing actions...
+2025-01-27 20:13:08,910 - INFO - Turn_On_Switch called.
+2025-01-27 20:13:11,022 - INFO - Script TurnOnSwitch.py executed successfully.
+2025-01-27 20:13:11,023 - INFO - Install_Agents called.
