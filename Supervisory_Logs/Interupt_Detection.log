@@ -135,3 +135,5 @@
                                                                  2025-01-27 19:53:19,566 - INFO - Interupt detection file started
 2025-01-27 20:15:02,411 - INFO - Interupt detection file started
 2025-01-27 20:26:58,478 - INFO - Interupt detection file started
+2025-01-27 20:30:10,673 - INFO - Interrupt detected! Mode change identified.
+2025-01-27 20:30:10,673 - INFO - Running mode processor script...
